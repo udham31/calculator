@@ -1,0 +1,36 @@
+ body{
+    margin:0;
+    padding: 0;
+    /* background-color: rgb(233, 143, 138);*/
+    background: rgb(232, 160, 160);  
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+   
+    color: white;
+}
+
+h1{
+    width: 101%;
+    color: black;
+    font-size: 35px;
+    font-weight: 600;
+    font-family: 'Tektur', cursive;
+}
+input{
+   
+    width: 75px;
+    height: 30px;
+    border-radius: 6px;
+    margin: 8px;
+    font-weight: 600;
+    font-size: 20px;
+    border-style: none;
+    color: black;
+}
+.btn:hover{
+    background-color: rgb(208, 67, 208);
+    cursor: pointer;
+}
